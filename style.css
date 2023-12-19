@@ -430,3 +430,6 @@ footer {
 footer p {
   text-align: center;
 }
+.about-me {
+  color: rgba(0, 0, 0, 0.89);
+}
